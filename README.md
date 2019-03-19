@@ -1,2 +1,3 @@
 # Gene_Analysing
-Gene analyzation code
+Gene selection of response of a given drug.  
+
